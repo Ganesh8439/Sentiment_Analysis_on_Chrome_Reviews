@@ -9,9 +9,9 @@ The dataset consists of google chrome reviews with rating, we have to find out t
 * Now we take only positive reviews and less rating(1 or 2 star) and store it in a dataframe
 ## Deployment
 * Deployment is done using streamlit
-* To run the app use the code `streamlit run main.py` in cmd prompt
+* To run the app locally use the code `streamlit run main.py` in cmd prompt
 * Make sure the libraries from the requirements.txt has been installed using `pip install -r requirements.txt`
-* The deployement url is <http://192.168.29.220:8501>/
+* The deployement url is <https://ganesh8439-sentiment-analysis-on-chrome-reviews-main-fvq1ol.streamlitapp.com/>/
 ## Results
 ![picture alt](main_page.png)
 ![picture alt](Final_page.png)
