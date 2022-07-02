@@ -10,5 +10,5 @@ The dataset consists of google chrome reviews with rating, we have to find out t
 ## Deployment
 * Deployment is done using streamlit
 * To run the app use the code `streamlit run main.py` in cmd prompt
-* make sure the libraries from the requirements.txt has been installed using `pip install -r requirements.txt`
+* Make sure the libraries from the requirements.txt has been installed using `pip install -r requirements.txt`
 * The deployement url is <http://192.168.29.220:8501>
