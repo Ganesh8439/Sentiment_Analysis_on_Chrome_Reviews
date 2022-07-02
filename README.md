@@ -8,4 +8,6 @@ The dataset consists of google chrome reviews with rating, we have to find out t
 * After reading the dataset we apply a for loop which will clean each review in the column text and check for the sematics using **textblob** and certain score is given for each text, If the score is greater than zero it means the review is positive, if the score is less than zero it means the review is negative and if the score is equal to zero then it means neutral
 * Now we take only positive reviews and less rating(1 or 2 star) and store it in a dataframe
 ## Deployment
-Deployed using streamlit
+* Deployment is done using streamlit
+* To run the app use the code `streamlit run main.py` in cmd prompt
+* The deployement url is <http://192.168.29.220:8501>
