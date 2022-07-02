@@ -11,7 +11,7 @@ The dataset consists of google chrome reviews with rating, we have to find out t
 * Deployment is done using streamlit
 * To run the app locally use the code `streamlit run main.py` in cmd prompt
 * Make sure the libraries from the requirements.txt has been installed using `pip install -r requirements.txt`
-* The deployement url is <https://ganesh8439-sentiment-analysis-on-chrome-reviews-main-fvq1ol.streamlitapp.com/>/
+* The deployement url is <https://ganesh8439-sentiment-analysis-on-chrome-reviews-main-fvq1ol.streamlitapp.com/>
 ## Results
 ![picture alt](main_page.png)
 ![picture alt](Final_page.png)
